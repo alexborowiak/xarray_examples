@@ -92,7 +92,7 @@ jupyterlab_server @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000g
 kiwisolver @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e26jwrjf6j/croot/kiwisolver_1672387151391/work
 lazy-object-proxy @ file:///opt/concourse/worker/volumes/live/a169db40-97bf-4f51-6893-dc751f705b7b/volume/lazy-object-proxy_1616529067444/work
 leaflet==0.0.3
-llvmlite==0.36.0
+llvmlite==0.41.1
 lmdb @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_88zbo0vn66/croot/python-lmdb_1682522360781/work
 locket==0.2.1
 lxml @ file:///Users/runner/miniforge3/conda-bld/lxml_1616532448045/work
@@ -119,7 +119,7 @@ netCDF4 @ file:///Users/runner/miniforge3/conda-bld/netcdf4_1630448040549/work
 networkx @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_666p3uavvu/croot/networkx_1690562005807/work
 notebook @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_be_2kh1kd4/croot/notebook_1681756176866/work
 notebook_shim @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e9s6zsmlb7/croot/notebook-shim_1668160584892/work
-numba @ file:///opt/concourse/worker/volumes/live/86eb8a4d-3adc-4107-5b7d-65049618b20b/volume/numba_1616774239039/work
+numba==0.58.1
 numcodecs @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b2p97icv4l/croot/numcodecs_1674851387067/work
 numexpr @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cef3ah6r8w/croot/numexpr_1668713880672/work
 numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bdk7p7tnsw/croot/numpy_and_numpy_base_1682520579379/work
