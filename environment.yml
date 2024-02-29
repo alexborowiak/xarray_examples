@@ -8,4 +8,5 @@ dependencies:
   - pandas
   - dask
   - netcdf4
+  - conda-forge::pooch
 prefix: /Users/aborowiak/anaconda3/envs/supervision_env_2
