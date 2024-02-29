@@ -1,11 +1,10 @@
 name: supervision_env_2
 channels:
   - defaults
-  - conda-forge  # Additional channel for more packages
 dependencies:
-  - python=3.8  # Downgraded to Python 3.8 for wider compatibility
   - numpy
   - xarray
-  - pandas
   - matplotlib
-  - xesmf
+  - pandas
+  - dask
+prefix: /Users/aborowiak/anaconda3/envs/supervision_env_2
