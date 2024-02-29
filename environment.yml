@@ -7,4 +7,5 @@ dependencies:
   - matplotlib
   - pandas
   - dask
+  - netcdf4
 prefix: /Users/aborowiak/anaconda3/envs/supervision_env_2
