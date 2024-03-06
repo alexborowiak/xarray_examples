@@ -9,4 +9,6 @@ dependencies:
   - dask
   - netcdf4
   - conda-forge::pooch
+  - ipykernel
+  - conda-forge::cartopy
 prefix: /Users/aborowiak/anaconda3/envs/supervision_env_2
