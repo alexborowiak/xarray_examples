@@ -6,5 +6,5 @@
 The aim of this repository is that it can be used with Binder. 
 When adding new packages, please update the environment using 
 ```
-conda envexport--from-history > environment.yml
+conda env export --from-history > environment.yml
 ```
